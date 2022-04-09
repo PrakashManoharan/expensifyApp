@@ -27,7 +27,7 @@
     "git": "^0.1.5",
     "jest": "^23.5.0",
     "live-server": "^1.2.0",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "node-sass": "^4.9.3",
     "normalize.css": "^8.0.0",
     "raf": "^3.4.0",
